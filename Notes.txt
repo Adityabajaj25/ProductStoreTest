@@ -1,0 +1,16 @@
+
+Notes
+Smoke test Scenrio(Only happy path) which can be further tested:
+1) Product Category verification on Home page
+2) Verify of Category selection functionlaity on home page
+3) Verification of "Contact" menu item test
+4) Verification of product name, price, and description on product details page
+
+Some of the Improvement which can be done if some time is given in future
+1) Make the test data driven (Get data from excel)
+2) Add log and report functionlaity using Extent report
+3) Handle error and proper exceptions
+4) Re run failed test cases
+5) Parallel execution
+6) Cross browser Test
+
